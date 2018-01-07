@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="8in"
-   height="5in"
-   viewBox="0 0 720.00002 450"
+   width="300mm"
+   height="127mm"
+   viewBox="0 0 1062.9922 450"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -132,13 +132,13 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.85775432"
-     inkscape:cx="471.20759"
-     inkscape:cy="146.00526"
-     inkscape:document-units="in"
-     inkscape:current-layer="layer3"
+     inkscape:zoom="0.79843181"
+     inkscape:cx="440.97757"
+     inkscape:cy="216.06705"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g4580"
      showgrid="false"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:window-width="1436"
      inkscape:window-height="856"
@@ -149,17 +149,13 @@
      inkscape:snap-global="false"
      guidetolerance="10000"
      gridtolerance="10"
-     units="in">
-    <sodipodi:guide
-       position="90.000002,632.85714"
-       orientation="1,0"
-       id="guide8394" />
+     units="mm">
     <sodipodi:guide
        position="174.75639,674.7819"
        orientation="0,1"
        id="guide8396" />
     <sodipodi:guide
-       position="83.716394,252.15933"
+       position="53.229341,212.60424"
        orientation="0,1"
        id="guide8398" />
     <sodipodi:guide
@@ -175,7 +171,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1639,7 +1635,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="pilot hole vectors"
-     style="display:inline"
+     style="display:none"
      transform="translate(0,-294.09449)">
     <path
        style="opacity:1;fill:none;fill-opacity:1;stroke:#ff2a2a;stroke-width:1.8705014;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -1849,5 +1845,42 @@
        style="display:inline;fill:none;stroke:#ff0040;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 1.719,-14.975 c -4.612,-4.613 -12.08,-4.613 -16.692,0 -4.613,4.612 -4.617,12.08 -0.002,16.692 4.612,4.615 12.082,4.615 16.694,0 4.615,-4.612 4.613,-12.078 0,-16.692 z"
        sodipodi:nodetypes="scccs" />
+  </g>
+  <g
+     transform="translate(0,-294.09449)"
+     style="display:inline"
+     inkscape:label="enclosure"
+     id="g4580"
+     inkscape:groupmode="layer">
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1.55563223;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4565"
+       width="211.04279"
+       height="389.16129"
+       x="304.49399"
+       y="-392.48779"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1.71252763;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4567"
+       width="662.63275"
+       height="210.88589"
+       x="397.95074"
+       y="304.57245" />
+    <rect
+       y="524.57245"
+       x="397.95074"
+       height="210.88589"
+       width="662.63275"
+       id="rect4569"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1.71252763;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-392.48779"
+       x="524.49402"
+       height="389.16129"
+       width="211.04279"
+       id="rect4571"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1.55563223;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   </g>
 </svg>
